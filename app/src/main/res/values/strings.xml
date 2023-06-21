@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google-Speech-Text-V2</string>
+    <string name="erkannter_text">Erkannter Text wird hier angezeigt</string>
+    <string name="spracherkennung_starten">Spracherkennung starten</string>
+</resources>
